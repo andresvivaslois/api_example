@@ -1,0 +1,36 @@
+2019-06-22 12:56:50,903 ERROR MESSAGE: prueba
+ 2019-06-22 12:56:59,951 ERROR MESSAGE: prueba
+ 2019-06-22 13:25:00,986 ERROR MESSAGE: System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at GNB.Domain.Helpers.RequestHelper.GetListFromUrl[T](String url) in C:\Users\Usuario\Source\Repos\NewRepo\GNB.Domain\Helpers\RequestHelper.cs:line 26
+ 2019-06-22 13:25:28,723 ERROR MESSAGE: System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at GNB.Domain.Helpers.RequestHelper.GetListFromUrl[T](String url) in C:\Users\Usuario\Source\Repos\NewRepo\GNB.Domain\Helpers\RequestHelper.cs:line 26
+ 2019-06-22 13:25:28,753 ERROR MESSAGE: There are not transactions for the required SKU
+ 2019-06-22 13:26:17,034 ERROR MESSAGE: System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at GNB.Domain.Helpers.RequestHelper.GetListFromUrl[T](String url) in C:\Users\Usuario\Source\Repos\NewRepo\GNB.Domain\Helpers\RequestHelper.cs:line 26
+ 2019-06-22 13:26:21,246 ERROR MESSAGE: There are not transactions for the required SKU
+ 2019-06-22 13:27:29,668 ERROR MESSAGE: System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at GNB.Domain.Helpers.RequestHelper.GetListFromUrl[T](String url) in C:\Users\Usuario\Source\Repos\NewRepo\GNB.Domain\Helpers\RequestHelper.cs:line 26
+ 2019-06-22 13:27:48,057 ERROR MESSAGE: System.InvalidOperationException: An invalid request URI was provided. The request URI must either be an absolute URI or BaseAddress must be set.
+   at System.Net.Http.HttpClient.PrepareRequestMessage(HttpRequestMessage request)
+   at System.Net.Http.HttpClient.SendAsync(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(Uri requestUri, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.GetAsync(String requestUri)
+   at GNB.Domain.Helpers.RequestHelper.GetListFromUrl[T](String url) in C:\Users\Usuario\Source\Repos\NewRepo\GNB.Domain\Helpers\RequestHelper.cs:line 26
+ 2019-06-22 13:27:48,093 ERROR MESSAGE: There are not transactions for the required SKU
+ 

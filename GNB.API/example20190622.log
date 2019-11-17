@@ -1,0 +1,18 @@
+2019-06-22 12:52:12,704  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:39498/api/rates  
+ 2019-06-22 12:52:12,714  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Get", controller = "Rates"}. Executing action GNB.API.Controllers.RatesController.Get (GNB.API)
+ 2019-06-22 12:52:12,735  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method GNB.API.Controllers.RatesController.Get (GNB.API) - Validation state: Valid
+ 2019-06-22 12:52:33,123  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method GNB.API.Controllers.RatesController.Get (GNB.API), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 20379.1858ms.
+ 2019-06-22 12:52:33,127  INFO Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor.? [?] - MESSAGE: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GNB.Domain.DTO.RatesDTO, GNB.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+ 2019-06-22 12:52:33,132  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action GNB.API.Controllers.RatesController.Get (GNB.API) in 20413.811ms
+ 2019-06-22 12:52:33,138  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 20438.7995ms 200 application/json; charset=utf-8
+ 2019-06-22 12:53:15,790  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 GET http://localhost:39498/api/rates  
+ 2019-06-22 12:53:15,790  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request starting HTTP/1.1 DEBUG http://localhost:39498/  0
+ 2019-06-22 12:53:15,845  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 58.176ms 200 
+ 2019-06-22 12:53:16,017  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Route matched with {action = "Get", controller = "Rates"}. Executing action GNB.API.Controllers.RatesController.Get (GNB.API)
+ 2019-06-22 12:53:16,031  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executing action method GNB.API.Controllers.RatesController.Get (GNB.API) - Validation state: Valid
+ 2019-06-22 12:53:26,013 ERROR GNB.Utilities.Helpers.Logger.? [?] - MESSAGE: prueba
+ 2019-06-22 12:53:26,836  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action method GNB.API.Controllers.RatesController.Get (GNB.API), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 10798.779ms.
+ 2019-06-22 12:53:26,851  INFO Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor.? [?] - MESSAGE: Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[GNB.Domain.DTO.RatesDTO, GNB.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+ 2019-06-22 12:53:26,880  INFO Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.? [?] - MESSAGE: Executed action GNB.API.Controllers.RatesController.Get (GNB.API) in 10853.2411ms
+ 2019-06-22 12:53:26,893  INFO Microsoft.AspNetCore.Hosting.Internal.WebHost.? [?] - MESSAGE: Request finished in 11107.3383ms 200 application/json; charset=utf-8
+ 

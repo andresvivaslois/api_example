@@ -1,0 +1,8 @@
+C:\Users\Usuario\Source\Repos\NewRepo\GNB.Utilities\bin\Debug\netcoreapp2.1\GNB.Utilities.deps.json
+C:\Users\Usuario\Source\Repos\NewRepo\GNB.Utilities\bin\Debug\netcoreapp2.1\GNB.Utilities.dll
+C:\Users\Usuario\Source\Repos\NewRepo\GNB.Utilities\bin\Debug\netcoreapp2.1\GNB.Utilities.pdb
+C:\Users\Usuario\Source\Repos\NewRepo\GNB.Utilities\obj\Debug\netcoreapp2.1\GNB.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\NewRepo\GNB.Utilities\obj\Debug\netcoreapp2.1\GNB.Utilities.AssemblyInfoInputs.cache
+C:\Users\Usuario\Source\Repos\NewRepo\GNB.Utilities\obj\Debug\netcoreapp2.1\GNB.Utilities.AssemblyInfo.cs
+C:\Users\Usuario\Source\Repos\NewRepo\GNB.Utilities\obj\Debug\netcoreapp2.1\GNB.Utilities.dll
+C:\Users\Usuario\Source\Repos\NewRepo\GNB.Utilities\obj\Debug\netcoreapp2.1\GNB.Utilities.pdb
